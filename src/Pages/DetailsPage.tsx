@@ -1,5 +1,6 @@
 // src/pages/DetailsPage.js
-import React, { useContext } from 'react';
+// import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { FoodContext } from '../Components/FoodContext';
 

@@ -1,5 +1,6 @@
 // src/pages/SummaryPage.js
-import React, { useContext } from 'react';
+// import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { FoodContext } from '../Components/FoodContext';
 
 const SummaryPage = () => {

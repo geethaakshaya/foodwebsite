@@ -1,4 +1,4 @@
-import Footer from './Pages/01-Footer/Footer';
+// import Footer from './Pages/01-Footer/Footer';
 import MainRoutes from './Pages/02-MainRoutes/MainRoutes'
 function App() {
   return (
